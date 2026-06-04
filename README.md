@@ -1,2 +1,2 @@
-# permanafahri.guthub.io
+# permanafahri.github.io
 My Personal Website
